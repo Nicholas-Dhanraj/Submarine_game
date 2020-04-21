@@ -1,0 +1,163 @@
+﻿  main.c
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(55,38): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(55,43): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(55,48): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(57,38): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(57,43): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(57,48): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(68,41): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(68,51): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(87,1): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(88,1): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(116,1): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(117,1): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(145,1): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(146,1): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(174,1): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(175,1): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(247,52): warning C4030:  first formal parameter list longer than the second list
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(412,27): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(468,12): warning C4013:  'changeY' undefined; assuming extern returning int
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(500,28): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(501,28): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(655,37): warning C4305:  'function': truncation from 'double' to 'GLclampf'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(655,50): warning C4305:  'function': truncation from 'double' to 'GLclampf'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(666,37): warning C4305:  'function': truncation from 'double' to 'GLclampf'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(666,50): warning C4305:  'function': truncation from 'double' to 'GLclampf'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(722,21): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(722,28): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(722,35): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(770,15): warning C4013:  'resetTerrain' undefined; assuming extern returning int
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(946,28): warning C4244:  'function': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(946,34): warning C4244:  'function': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(982,18): warning C4013:  'DrawMeshQMOcean' undefined; assuming extern returning int
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1091,23): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1091,31): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1091,39): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1092,23): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1092,31): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1092,39): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1093,23): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1093,31): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1093,39): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1094,23): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1094,31): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1094,39): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1097,13): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1106,23): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1106,31): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1106,39): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1107,23): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1107,31): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1107,39): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1108,23): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1108,31): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1108,39): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1109,23): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1109,31): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1109,39): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1112,13): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1146,19): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1148,29): warning C4244:  'function': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1148,35): warning C4244:  'function': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1164,49): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1169,12): warning C4013:  'time' undefined; assuming extern returning int
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1178,48): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1179,48): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1184,35): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1191,48): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1192,48): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1199,36): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1209,26): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1210,33): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1211,48): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1212,48): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1216,33): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1203,1): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1316,27): warning C4244:  'function': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1316,33): warning C4244:  'function': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1345,15): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1372,15): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1398,52): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1398,74): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1421,14): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1421,20): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1426,19): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1426,36): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1428,14): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1428,19): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1428,24): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1440,22): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1442,17): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1456,24): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1458,15): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1458,23): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1463,19): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1465,15): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1465,23): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1470,19): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1470,24): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1470,29): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1472,15): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1472,23): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1477,24): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1479,14): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1479,19): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1479,24): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1484,19): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1484,24): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1486,14): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1486,19): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1486,24): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1491,19): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1491,24): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1493,14): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1493,19): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1493,24): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1510,18): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1526,18): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1588,43): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1589,43): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1665,40): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1666,40): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1703,15): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1742,14): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1746,39): warning C4020:  'terrainCollide': too many actual parameters
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1833,18): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1835,33): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1836,33): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1860,17): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1862,37): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1863,36): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1888,9): warning C4013:  'undoY' undefined; assuming extern returning int
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1893,9): warning C4013:  'redoY' undefined; assuming extern returning int
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1937,25): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1599,1): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1602,1): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1961,25): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(1991,7): warning C4013:  'waves' undefined; assuming extern returning int
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2001,22): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2006,22): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2022,49): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2023,49): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2032,23): warning C4305:  'function': truncation from 'double' to 'GLclampf'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2047,23): warning C4305:  'function': truncation from 'double' to 'GLclampf'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2055,1): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2075,20): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2079,21): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2083,21): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2240,37): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2241,36): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2462,37): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2463,37): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2483,42): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2487,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2488,33): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2443,11): warning C4101:  'location': unreferenced local variable
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2517,10): warning C4244:  '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2519,22): warning C4244:  'function': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2522,25): warning C4244:  'function': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2522,31): warning C4244:  'function': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2522,37): warning C4244:  'function': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\main.c(2736,9): warning C4101:  'texMapLocation': unreferenced local variable
+  SUBMARINE_GAME.vcxproj -> C:\Users\nickj\Desktop\CODE\C++ Projects\SUBMARINE_GAME\Debug\SUBMARINE_GAME.exe
